@@ -1,0 +1,16 @@
+.table-view {
+    -fx-table-cell-border-color: transparent;
+}
+
+.table-row-cell {
+    -fx-background-color: #ffffff;
+    -fx-text-fill: #4a154b;
+}
+
+.table-row-cell:selected {
+    -fx-background-color: #cceeff;
+}
+
+.table-column {
+    -fx-alignment: center-left;
+}
